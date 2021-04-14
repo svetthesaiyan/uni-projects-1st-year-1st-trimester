@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;The Purpose of &apos;setw&apos;/the_purpose_of_&apos;setw&apos;.cpp&apos; to &apos;the_purpose_of_setw.cpp&apos;" description="Rename resource &apos;the_purpose_of_&apos;setw&apos;.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="the_purpose_of_&apos;setw&apos;.cpp" name="the_purpose_of_setw.cpp" stamp="1603486804924" updateReferences="true"/>
+</session>

@@ -1,0 +1,7 @@
+14:50:11 **** Rebuild of configuration Debug for project if or else 'a' is smaller than 0 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o magictrick.o "..\\magictrick.cpp" 
+g++ -o "if or else 'a' is smaller than 0.exe" magictrick.o 
+
+14:50:12 Build Finished. 0 errors, 0 warnings. (took 994ms)
+

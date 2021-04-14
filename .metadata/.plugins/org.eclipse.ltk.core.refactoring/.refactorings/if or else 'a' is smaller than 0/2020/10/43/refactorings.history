@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Magic Trick/magic_trick.cpp&apos; to &apos;magictrick.cpp&apos;" description="Rename resource &apos;magic_trick.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="magic_trick.cpp" name="magictrick.cpp" stamp="1603479669096" updateReferences="true"/>
+</session>

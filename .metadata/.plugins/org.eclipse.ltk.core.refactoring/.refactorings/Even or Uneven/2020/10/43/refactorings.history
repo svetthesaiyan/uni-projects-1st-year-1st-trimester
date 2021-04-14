@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Even or Uneven/Even or Uneven.cpp&apos; to &apos;Even_or_Uneven.cpp&apos;" description="Rename resource &apos;Even or Uneven.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Even or Uneven.cpp" name="Even_or_Uneven.cpp" stamp="1603478916817" updateReferences="true"/>
+</session>

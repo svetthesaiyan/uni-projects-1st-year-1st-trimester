@@ -1,0 +1,7 @@
+22:18:32 **** Incremental Build of configuration Debug for project ez ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o ez.o "..\\ez.cpp" 
+g++ -o ez.exe ez.o 
+
+22:18:33 Build Finished. 0 errors, 0 warnings. (took 1s.120ms)
+

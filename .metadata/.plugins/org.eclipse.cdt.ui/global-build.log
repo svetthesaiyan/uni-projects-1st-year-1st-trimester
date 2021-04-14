@@ -1,0 +1,1312 @@
+20:37:59 **** Rebuild of configuration Debug for project Candle Conundrum ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o candle_conundrum.o "..\\candle_conundrum.cpp" 
+..\candle_conundrum.cpp:5:5: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |     ^
+..\candle_conundrum.cpp:5:6: error: stray '\240' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |      ^
+..\candle_conundrum.cpp:5:7: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |       ^
+..\candle_conundrum.cpp:5:8: error: stray '\276' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |        ^
+..\candle_conundrum.cpp:5:9: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |         ^
+..\candle_conundrum.cpp:5:10: error: stray '\266' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |          ^
+..\candle_conundrum.cpp:5:11: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |           ^
+..\candle_conundrum.cpp:5:12: error: stray '\264' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |            ^
+..\candle_conundrum.cpp:5:13: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |             ^
+..\candle_conundrum.cpp:5:14: error: stray '\265' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |              ^
+..\candle_conundrum.cpp:5:15: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |               ^
+..\candle_conundrum.cpp:5:16: error: stray '\275' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                ^
+..\candle_conundrum.cpp:5:18: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                  ^
+..\candle_conundrum.cpp:5:19: error: stray '\264' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                   ^
+..\candle_conundrum.cpp:5:20: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                    ^
+..\candle_conundrum.cpp:5:21: error: stray '\265' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                     ^
+..\candle_conundrum.cpp:5:22: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                      ^
+..\candle_conundrum.cpp:5:23: error: stray '\275' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                       ^
+..\candle_conundrum.cpp:5:26: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                          ^
+..\candle_conundrum.cpp:5:27: error: stray '\235' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                           ^
+..\candle_conundrum.cpp:5:28: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                            ^
+..\candle_conundrum.cpp:5:29: error: stray '\265' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                             ^
+..\candle_conundrum.cpp:5:30: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                              ^
+..\candle_conundrum.cpp:5:31: error: stray '\276' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                               ^
+..\candle_conundrum.cpp:5:32: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                ^
+..\candle_conundrum.cpp:5:33: error: stray '\261' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                 ^
+..\candle_conundrum.cpp:5:34: error: stray '\321' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                  ^
+..\candle_conundrum.cpp:5:35: error: stray '\205' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                   ^
+..\candle_conundrum.cpp:5:36: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                    ^
+..\candle_conundrum.cpp:5:37: error: stray '\276' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                     ^
+..\candle_conundrum.cpp:5:38: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                      ^
+..\candle_conundrum.cpp:5:39: error: stray '\264' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                       ^
+..\candle_conundrum.cpp:5:40: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                        ^
+..\candle_conundrum.cpp:5:41: error: stray '\270' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                         ^
+..\candle_conundrum.cpp:5:42: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                          ^
+..\candle_conundrum.cpp:5:43: error: stray '\274' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                           ^
+..\candle_conundrum.cpp:5:45: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                             ^
+..\candle_conundrum.cpp:5:46: error: stray '\261' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                              ^
+..\candle_conundrum.cpp:5:47: error: stray '\321' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                               ^
+..\candle_conundrum.cpp:5:48: error: stray '\200' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                ^
+..\candle_conundrum.cpp:5:49: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                 ^
+..\candle_conundrum.cpp:5:50: error: stray '\276' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                  ^
+..\candle_conundrum.cpp:5:51: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                   ^
+..\candle_conundrum.cpp:5:52: error: stray '\271' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                    ^
+..\candle_conundrum.cpp:5:54: error: stray '\321' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                      ^
+..\candle_conundrum.cpp:5:55: error: stray '\201' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                       ^
+..\candle_conundrum.cpp:5:56: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                        ^
+..\candle_conundrum.cpp:5:57: error: stray '\262' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                         ^
+..\candle_conundrum.cpp:5:58: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                          ^
+..\candle_conundrum.cpp:5:59: error: stray '\265' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                           ^
+..\candle_conundrum.cpp:5:60: error: stray '\321' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                            ^
+..\candle_conundrum.cpp:5:61: error: stray '\211' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                             ^
+..\candle_conundrum.cpp:5:62: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                              ^
+..\candle_conundrum.cpp:5:63: error: stray '\270' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                               ^
+..\candle_conundrum.cpp:5:64: error: stray '\321' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                                ^
+..\candle_conundrum.cpp:5:65: error: stray '\207' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                                 ^
+..\candle_conundrum.cpp:5:66: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                                  ^
+..\candle_conundrum.cpp:5:67: error: stray '\272' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                                   ^
+..\candle_conundrum.cpp:5:68: error: stray '\320' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                                    ^
+..\candle_conundrum.cpp:5:69: error: stray '\270' in program
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                                     ^
+..\candle_conundrum.cpp:6:37: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                     ^
+..\candle_conundrum.cpp:6:38: error: stray '\240' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                      ^
+..\candle_conundrum.cpp:6:39: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                       ^
+..\candle_conundrum.cpp:6:40: error: stray '\276' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                        ^
+..\candle_conundrum.cpp:6:41: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                         ^
+..\candle_conundrum.cpp:6:42: error: stray '\266' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                          ^
+..\candle_conundrum.cpp:6:43: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                           ^
+..\candle_conundrum.cpp:6:44: error: stray '\264' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                            ^
+..\candle_conundrum.cpp:6:45: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                             ^
+..\candle_conundrum.cpp:6:46: error: stray '\265' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                              ^
+..\candle_conundrum.cpp:6:47: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                               ^
+..\candle_conundrum.cpp:6:48: error: stray '\275' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                ^
+..\candle_conundrum.cpp:6:50: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                  ^
+..\candle_conundrum.cpp:6:51: error: stray '\264' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                   ^
+..\candle_conundrum.cpp:6:52: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                    ^
+..\candle_conundrum.cpp:6:53: error: stray '\265' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                     ^
+..\candle_conundrum.cpp:6:54: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                      ^
+..\candle_conundrum.cpp:6:55: error: stray '\275' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                       ^
+..\candle_conundrum.cpp:7:1: error: stray '\320' in program
+    7 | �?еобходим брой �?вещички=3
+      | ^
+..\candle_conundrum.cpp:7:2: error: stray '\235' in program
+    7 | �?еобходим брой �?вещички=3
+      |  ^
+..\candle_conundrum.cpp:7:3: error: stray '\320' in program
+    7 | �?еобходим брой �?вещички=3
+      |   ^
+..\candle_conundrum.cpp:7:4: error: stray '\265' in program
+    7 | �?еобходим брой �?вещички=3
+      |    ^
+..\candle_conundrum.cpp:7:5: error: stray '\320' in program
+    7 | �?еобходим брой �?вещички=3
+      |     ^
+..\candle_conundrum.cpp:7:6: error: stray '\276' in program
+    7 | �?еобходим брой �?вещички=3
+      |      ^
+..\candle_conundrum.cpp:7:7: error: stray '\320' in program
+    7 | �?еобходим брой �?вещички=3
+      |       ^
+..\candle_conundrum.cpp:7:8: error: stray '\261' in program
+    7 | �?еобходим брой �?вещички=3
+      |        ^
+..\candle_conundrum.cpp:7:9: error: stray '\321' in program
+    7 | �?еобходим брой �?вещички=3
+      |         ^
+..\candle_conundrum.cpp:7:10: error: stray '\205' in program
+    7 | �?еобходим брой �?вещички=3
+      |          ^
+..\candle_conundrum.cpp:7:11: error: stray '\320' in program
+    7 | �?еобходим брой �?вещички=3
+      |           ^
+..\candle_conundrum.cpp:7:12: error: stray '\276' in program
+    7 | �?еобходим брой �?вещички=3
+      |            ^
+..\candle_conundrum.cpp:7:13: error: stray '\320' in program
+    7 | �?еобходим брой �?вещички=3
+      |             ^
+..\candle_conundrum.cpp:7:14: error: stray '\264' in program
+    7 | �?еобходим брой �?вещички=3
+      |              ^
+..\candle_conundrum.cpp:7:15: error: stray '\320' in program
+    7 | �?еобходим брой �?вещички=3
+      |               ^
+..\candle_conundrum.cpp:7:16: error: stray '\270' in program
+    7 | �?еобходим брой �?вещички=3
+      |                ^
+..\candle_conundrum.cpp:7:17: error: stray '\320' in program
+    7 | �?еобходим брой �?вещички=3
+      |                 ^
+..\candle_conundrum.cpp:7:18: error: stray '\274' in program
+    7 | �?еобходим брой �?вещички=3
+      |                  ^
+..\candle_conundrum.cpp:7:20: error: stray '\320' in program
+    7 | �?еобходим брой �?вещички=3
+      |                    ^
+..\candle_conundrum.cpp:7:21: error: stray '\261' in program
+    7 | �?еобходим брой �?вещички=3
+      |                     ^
+..\candle_conundrum.cpp:7:22: error: stray '\321' in program
+    7 | �?еобходим брой �?вещички=3
+      |                      ^
+..\candle_conundrum.cpp:7:23: error: stray '\200' in program
+    7 | �?еобходим брой �?вещички=3
+      |                       ^
+..\candle_conundrum.cpp:7:24: error: stray '\320' in program
+    7 | �?еобходим брой �?вещички=3
+      |                        ^
+..\candle_conundrum.cpp:7:25: error: stray '\276' in program
+    7 | �?еобходим брой �?вещички=3
+      |                         ^
+..\candle_conundrum.cpp:7:26: error: stray '\320' in program
+    7 | �?еобходим брой �?вещички=3
+      |                          ^
+..\candle_conundrum.cpp:7:27: error: stray '\271' in program
+    7 | �?еобходим брой �?вещички=3
+      |                           ^
+..\candle_conundrum.cpp:7:29: error: stray '\321' in program
+    7 | �?еобходим брой �?вещички=3
+      |                             ^
+..\candle_conundrum.cpp:7:30: error: stray '\201' in program
+    7 | �?еобходим брой �?вещички=3
+      |                              ^
+..\candle_conundrum.cpp:7:31: error: stray '\320' in program
+    7 | �?еобходим брой �?вещички=3
+      |                               ^
+..\candle_conundrum.cpp:7:32: error: stray '\262' in program
+    7 | �?еобходим брой �?вещички=3
+      |                                ^
+..\candle_conundrum.cpp:7:33: error: stray '\320' in program
+    7 | �?еобходим брой �?вещички=3
+      |                                 ^
+..\candle_conundrum.cpp:7:34: error: stray '\265' in program
+    7 | �?еобходим брой �?вещички=3
+      |                                  ^
+..\candle_conundrum.cpp:7:35: error: stray '\321' in program
+    7 | �?еобходим брой �?вещички=3
+      |                                   ^
+..\candle_conundrum.cpp:7:36: error: stray '\211' in program
+    7 | �?еобходим брой �?вещички=3
+      |                                    ^
+..\candle_conundrum.cpp:7:37: error: stray '\320' in program
+    7 | �?еобходим брой �?вещички=3
+      |                                     ^
+..\candle_conundrum.cpp:7:38: error: stray '\270' in program
+    7 | �?еобходим брой �?вещички=3
+      |                                      ^
+..\candle_conundrum.cpp:7:39: error: stray '\321' in program
+    7 | �?еобходим брой �?вещички=3
+      |                                       ^
+..\candle_conundrum.cpp:7:40: error: stray '\207' in program
+    7 | �?еобходим брой �?вещички=3
+      |                                        ^
+..\candle_conundrum.cpp:7:41: error: stray '\320' in program
+    7 | �?еобходим брой �?вещички=3
+      |                                         ^
+..\candle_conundrum.cpp:7:42: error: stray '\272' in program
+    7 | �?еобходим брой �?вещички=3
+      |                                          ^
+..\candle_conundrum.cpp:7:43: error: stray '\320' in program
+    7 | �?еобходим брой �?вещички=3
+      |                                           ^
+..\candle_conundrum.cpp:7:44: error: stray '\270' in program
+    7 | �?еобходим брой �?вещички=3
+      |                                            ^
+..\candle_conundrum.cpp:8:6: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |      ^
+..\candle_conundrum.cpp:8:7: error: stray '\240' in program
+    8 |   if(Рожден ден==100)
+      |       ^
+..\candle_conundrum.cpp:8:8: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |        ^
+..\candle_conundrum.cpp:8:9: error: stray '\276' in program
+    8 |   if(Рожден ден==100)
+      |         ^
+..\candle_conundrum.cpp:8:10: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |          ^
+..\candle_conundrum.cpp:8:11: error: stray '\266' in program
+    8 |   if(Рожден ден==100)
+      |           ^
+..\candle_conundrum.cpp:8:12: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |            ^
+..\candle_conundrum.cpp:8:13: error: stray '\264' in program
+    8 |   if(Рожден ден==100)
+      |             ^
+..\candle_conundrum.cpp:8:14: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |              ^
+..\candle_conundrum.cpp:8:15: error: stray '\265' in program
+    8 |   if(Рожден ден==100)
+      |               ^
+..\candle_conundrum.cpp:8:16: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |                ^
+..\candle_conundrum.cpp:8:17: error: stray '\275' in program
+    8 |   if(Рожден ден==100)
+      |                 ^
+..\candle_conundrum.cpp:8:19: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |                   ^
+..\candle_conundrum.cpp:8:20: error: stray '\264' in program
+    8 |   if(Рожден ден==100)
+      |                    ^
+..\candle_conundrum.cpp:8:21: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |                     ^
+..\candle_conundrum.cpp:8:22: error: stray '\265' in program
+    8 |   if(Рожден ден==100)
+      |                      ^
+..\candle_conundrum.cpp:8:23: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |                       ^
+..\candle_conundrum.cpp:8:24: error: stray '\275' in program
+    8 |   if(Рожден ден==100)
+      |                        ^
+..\candle_conundrum.cpp:10:60: error: stray '\320' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                            ^
+..\candle_conundrum.cpp:10:61: error: stray '\235' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                             ^
+..\candle_conundrum.cpp:10:62: error: stray '\320' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                              ^
+..\candle_conundrum.cpp:10:63: error: stray '\265' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                               ^
+..\candle_conundrum.cpp:10:64: error: stray '\320' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                ^
+..\candle_conundrum.cpp:10:65: error: stray '\276' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                 ^
+..\candle_conundrum.cpp:10:66: error: stray '\320' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                  ^
+..\candle_conundrum.cpp:10:67: error: stray '\261' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                   ^
+..\candle_conundrum.cpp:10:68: error: stray '\321' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                    ^
+..\candle_conundrum.cpp:10:69: error: stray '\205' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                     ^
+..\candle_conundrum.cpp:10:70: error: stray '\320' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                      ^
+..\candle_conundrum.cpp:10:71: error: stray '\276' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                       ^
+..\candle_conundrum.cpp:10:72: error: stray '\320' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                        ^
+..\candle_conundrum.cpp:10:73: error: stray '\264' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                         ^
+..\candle_conundrum.cpp:10:74: error: stray '\320' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                          ^
+..\candle_conundrum.cpp:10:75: error: stray '\270' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                           ^
+..\candle_conundrum.cpp:10:76: error: stray '\320' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                            ^
+..\candle_conundrum.cpp:10:77: error: stray '\274' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                             ^
+..\candle_conundrum.cpp:10:79: error: stray '\320' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                               ^
+..\candle_conundrum.cpp:10:80: error: stray '\261' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                ^
+..\candle_conundrum.cpp:10:81: error: stray '\321' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                 ^
+..\candle_conundrum.cpp:10:82: error: stray '\200' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                  ^
+..\candle_conundrum.cpp:10:83: error: stray '\320' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                   ^
+..\candle_conundrum.cpp:10:84: error: stray '\276' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                    ^
+..\candle_conundrum.cpp:10:85: error: stray '\320' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                     ^
+..\candle_conundrum.cpp:10:86: error: stray '\271' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                      ^
+..\candle_conundrum.cpp:10:88: error: stray '\321' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                        ^
+..\candle_conundrum.cpp:10:89: error: stray '\201' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                         ^
+..\candle_conundrum.cpp:10:90: error: stray '\320' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                          ^
+..\candle_conundrum.cpp:10:91: error: stray '\262' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                           ^
+..\candle_conundrum.cpp:10:92: error: stray '\320' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                            ^
+..\candle_conundrum.cpp:10:93: error: stray '\265' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                             ^
+..\candle_conundrum.cpp:10:94: error: stray '\321' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                              ^
+..\candle_conundrum.cpp:10:95: error: stray '\211' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                               ^
+..\candle_conundrum.cpp:10:96: error: stray '\320' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                                ^
+..\candle_conundrum.cpp:10:97: error: stray '\270' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                                 ^
+..\candle_conundrum.cpp:10:98: error: stray '\321' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                                  ^
+..\candle_conundrum.cpp:10:99: error: stray '\207' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                                   ^
+..\candle_conundrum.cpp:10:100: error: stray '\320' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                                    ^
+..\candle_conundrum.cpp:10:101: error: stray '\272' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                                     ^
+..\candle_conundrum.cpp:10:102: error: stray '\320' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                                      ^
+..\candle_conundrum.cpp:10:103: error: stray '\270' in program
+   10 |    cout<<"�?еобходим брой �?вещички= "<<�?еобходим брой �?вещички<<endl;
+      |                                                                                                       ^
+..\candle_conundrum.cpp: In function 'int main()':
+..\candle_conundrum.cpp:5:24: error: expected unqualified-id before ',' token
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                        ^
+..\candle_conundrum.cpp:5:70: error: expected unqualified-id before ';' token
+    5 | int Рожден ден, �?еобходим брой �?вещички;
+      |                                                                      ^
+..\candle_conundrum.cpp:6:56: error: expected primary-expression before ';' token
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                        ^
+..\candle_conundrum.cpp:7:45: error: expected primary-expression before '=' token
+    7 | �?еобходим брой �?вещички=3
+      |                                             ^
+..\candle_conundrum.cpp:12:3: error: 'else' without a previous 'if'
+   12 |   else
+      |   ^~~~
+20:39:31 **** Incremental Build of configuration Debug for project Candle Conundrum ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o candle_conundrum.o "..\\candle_conundrum.cpp" 
+..\candle_conundrum.cpp: In function 'int main()':
+..\candle_conundrum.cpp:5:22: error: expected initializer before 'of'
+    5 | int Birthday, Amount of candlesticks required;
+      |                      ^~
+..\candle_conundrum.cpp:7:1: error: 'Amount' was not declared in this scope
+    7 | Amount of candlesticks required=5
+      | ^~~~~~
+..\candle_conundrum.cpp:12:3: error: 'else' without a previous 'if'
+   12 |   else
+      |   ^~~~
+20:43:38 **** Incremental Build of configuration Debug for project Candle Conundrum ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o candle_conundrum.o "..\\candle_conundrum.cpp" 
+..\candle_conundrum.cpp: In function 'int main()':
+..\candle_conundrum.cpp:7:24: error: expected ';' before 'if'
+    7 | Candlesticks_required=5
+      |                        ^
+      |                        ;
+    8 |   if(Birthday==100)
+      |   ~~                    
+..\candle_conundrum.cpp:12:3: error: 'else' without a previous 'if'
+   12 |   else
+      |   ^~~~
+20:45:12 **** Incremental Build of configuration Debug for project Candle Conundrum ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o candle_conundrum.o "..\\candle_conundrum.cpp" 
+g++ -o "Candle Conundrum.exe" candle_conundrum.o 
+Info: Nothing to build for Candle Conundrum
+Info: Nothing to build for Candle Conundrum
+Info: Nothing to build for Candle Conundrum
+20:47:08 **** Incremental Build of configuration Debug for project Candle Conundrum ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o candle_conundrum.o "..\\candle_conundrum.cpp" 
+g++ -o "Candle Conundrum.exe" candle_conundrum.o 
+Info: Nothing to build for Candle Conundrum
+20:47:54 **** Incremental Build of configuration Debug for project Candle Conundrum ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o candle_conundrum.o "..\\candle_conundrum.cpp" 
+g++ -o "Candle Conundrum.exe" candle_conundrum.o 
+Info: Nothing to build for Candle Conundrum
+20:50:36 **** Incremental Build of configuration Debug for project Candle Conundrum ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o candle_conundrum.o "..\\candle_conundrum.cpp" 
+g++ -o "Candle Conundrum.exe" candle_conundrum.o 
+20:51:07 **** Incremental Build of configuration Debug for project Candle Conundrum ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o candle_conundrum.o "..\\candle_conundrum.cpp" 
+..\candle_conundrum.cpp:5:5: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |     ^
+..\candle_conundrum.cpp:5:6: error: stray '\240' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |      ^
+..\candle_conundrum.cpp:5:7: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |       ^
+..\candle_conundrum.cpp:5:8: error: stray '\276' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |        ^
+..\candle_conundrum.cpp:5:9: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |         ^
+..\candle_conundrum.cpp:5:10: error: stray '\266' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |          ^
+..\candle_conundrum.cpp:5:11: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |           ^
+..\candle_conundrum.cpp:5:12: error: stray '\264' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |            ^
+..\candle_conundrum.cpp:5:13: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |             ^
+..\candle_conundrum.cpp:5:14: error: stray '\265' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |              ^
+..\candle_conundrum.cpp:5:15: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |               ^
+..\candle_conundrum.cpp:5:16: error: stray '\275' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |                ^
+..\candle_conundrum.cpp:5:18: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |                  ^
+..\candle_conundrum.cpp:5:19: error: stray '\264' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |                   ^
+..\candle_conundrum.cpp:5:20: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |                    ^
+..\candle_conundrum.cpp:5:21: error: stray '\265' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |                     ^
+..\candle_conundrum.cpp:5:22: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |                      ^
+..\candle_conundrum.cpp:5:23: error: stray '\275' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |                       ^
+..\candle_conundrum.cpp:6:37: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                     ^
+..\candle_conundrum.cpp:6:38: error: stray '\240' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                      ^
+..\candle_conundrum.cpp:6:39: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                       ^
+..\candle_conundrum.cpp:6:40: error: stray '\276' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                        ^
+..\candle_conundrum.cpp:6:41: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                         ^
+..\candle_conundrum.cpp:6:42: error: stray '\266' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                          ^
+..\candle_conundrum.cpp:6:43: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                           ^
+..\candle_conundrum.cpp:6:44: error: stray '\264' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                            ^
+..\candle_conundrum.cpp:6:45: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                             ^
+..\candle_conundrum.cpp:6:46: error: stray '\265' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                              ^
+..\candle_conundrum.cpp:6:47: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                               ^
+..\candle_conundrum.cpp:6:48: error: stray '\275' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                ^
+..\candle_conundrum.cpp:6:50: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                  ^
+..\candle_conundrum.cpp:6:51: error: stray '\264' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                   ^
+..\candle_conundrum.cpp:6:52: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                    ^
+..\candle_conundrum.cpp:6:53: error: stray '\265' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                     ^
+..\candle_conundrum.cpp:6:54: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                      ^
+..\candle_conundrum.cpp:6:55: error: stray '\275' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                       ^
+..\candle_conundrum.cpp:8:6: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |      ^
+..\candle_conundrum.cpp:8:7: error: stray '\240' in program
+    8 |   if(Рожден ден==100)
+      |       ^
+..\candle_conundrum.cpp:8:8: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |        ^
+..\candle_conundrum.cpp:8:9: error: stray '\276' in program
+    8 |   if(Рожден ден==100)
+      |         ^
+..\candle_conundrum.cpp:8:10: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |          ^
+..\candle_conundrum.cpp:8:11: error: stray '\266' in program
+    8 |   if(Рожден ден==100)
+      |           ^
+..\candle_conundrum.cpp:8:12: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |            ^
+..\candle_conundrum.cpp:8:13: error: stray '\264' in program
+    8 |   if(Рожден ден==100)
+      |             ^
+..\candle_conundrum.cpp:8:14: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |              ^
+..\candle_conundrum.cpp:8:15: error: stray '\265' in program
+    8 |   if(Рожден ден==100)
+      |               ^
+..\candle_conundrum.cpp:8:16: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |                ^
+..\candle_conundrum.cpp:8:17: error: stray '\275' in program
+    8 |   if(Рожден ден==100)
+      |                 ^
+..\candle_conundrum.cpp:8:19: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |                   ^
+..\candle_conundrum.cpp:8:20: error: stray '\264' in program
+    8 |   if(Рожден ден==100)
+      |                    ^
+..\candle_conundrum.cpp:8:21: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |                     ^
+..\candle_conundrum.cpp:8:22: error: stray '\265' in program
+    8 |   if(Рожден ден==100)
+      |                      ^
+..\candle_conundrum.cpp:8:23: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |                       ^
+..\candle_conundrum.cpp:8:24: error: stray '\275' in program
+    8 |   if(Рожден ден==100)
+      |                        ^
+..\candle_conundrum.cpp: In function 'int main()':
+..\candle_conundrum.cpp:5:24: error: expected unqualified-id before ',' token
+    5 | int Рожден ден, Candlesticks_required;
+      |                        ^
+..\candle_conundrum.cpp:6:56: error: expected primary-expression before ';' token
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                        ^
+..\candle_conundrum.cpp:8:25: error: expected primary-expression before '==' token
+    8 |   if(Рожден ден==100)
+      |                         ^~
+20:51:25 **** Incremental Build of configuration Debug for project Candle Conundrum ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o candle_conundrum.o "..\\candle_conundrum.cpp" 
+..\candle_conundrum.cpp:5:5: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |     ^
+..\candle_conundrum.cpp:5:6: error: stray '\240' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |      ^
+..\candle_conundrum.cpp:5:7: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |       ^
+..\candle_conundrum.cpp:5:8: error: stray '\276' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |        ^
+..\candle_conundrum.cpp:5:9: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |         ^
+..\candle_conundrum.cpp:5:10: error: stray '\266' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |          ^
+..\candle_conundrum.cpp:5:11: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |           ^
+..\candle_conundrum.cpp:5:12: error: stray '\264' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |            ^
+..\candle_conundrum.cpp:5:13: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |             ^
+..\candle_conundrum.cpp:5:14: error: stray '\265' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |              ^
+..\candle_conundrum.cpp:5:15: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |               ^
+..\candle_conundrum.cpp:5:16: error: stray '\275' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |                ^
+..\candle_conundrum.cpp:5:18: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |                  ^
+..\candle_conundrum.cpp:5:19: error: stray '\264' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |                   ^
+..\candle_conundrum.cpp:5:20: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |                    ^
+..\candle_conundrum.cpp:5:21: error: stray '\265' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |                     ^
+..\candle_conundrum.cpp:5:22: error: stray '\320' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |                      ^
+..\candle_conundrum.cpp:5:23: error: stray '\275' in program
+    5 | int Рожден ден, Candlesticks_required;
+      |                       ^
+..\candle_conundrum.cpp:6:37: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                     ^
+..\candle_conundrum.cpp:6:38: error: stray '\240' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                      ^
+..\candle_conundrum.cpp:6:39: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                       ^
+..\candle_conundrum.cpp:6:40: error: stray '\276' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                        ^
+..\candle_conundrum.cpp:6:41: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                         ^
+..\candle_conundrum.cpp:6:42: error: stray '\266' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                          ^
+..\candle_conundrum.cpp:6:43: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                           ^
+..\candle_conundrum.cpp:6:44: error: stray '\264' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                            ^
+..\candle_conundrum.cpp:6:45: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                             ^
+..\candle_conundrum.cpp:6:46: error: stray '\265' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                              ^
+..\candle_conundrum.cpp:6:47: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                               ^
+..\candle_conundrum.cpp:6:48: error: stray '\275' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                ^
+..\candle_conundrum.cpp:6:50: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                  ^
+..\candle_conundrum.cpp:6:51: error: stray '\264' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                   ^
+..\candle_conundrum.cpp:6:52: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                    ^
+..\candle_conundrum.cpp:6:53: error: stray '\265' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                     ^
+..\candle_conundrum.cpp:6:54: error: stray '\320' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                      ^
+..\candle_conundrum.cpp:6:55: error: stray '\275' in program
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                       ^
+..\candle_conundrum.cpp:8:6: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |      ^
+..\candle_conundrum.cpp:8:7: error: stray '\240' in program
+    8 |   if(Рожден ден==100)
+      |       ^
+..\candle_conundrum.cpp:8:8: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |        ^
+..\candle_conundrum.cpp:8:9: error: stray '\276' in program
+    8 |   if(Рожден ден==100)
+      |         ^
+..\candle_conundrum.cpp:8:10: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |          ^
+..\candle_conundrum.cpp:8:11: error: stray '\266' in program
+    8 |   if(Рожден ден==100)
+      |           ^
+..\candle_conundrum.cpp:8:12: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |            ^
+..\candle_conundrum.cpp:8:13: error: stray '\264' in program
+    8 |   if(Рожден ден==100)
+      |             ^
+..\candle_conundrum.cpp:8:14: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |              ^
+..\candle_conundrum.cpp:8:15: error: stray '\265' in program
+    8 |   if(Рожден ден==100)
+      |               ^
+..\candle_conundrum.cpp:8:16: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |                ^
+..\candle_conundrum.cpp:8:17: error: stray '\275' in program
+    8 |   if(Рожден ден==100)
+      |                 ^
+..\candle_conundrum.cpp:8:19: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |                   ^
+..\candle_conundrum.cpp:8:20: error: stray '\264' in program
+    8 |   if(Рожден ден==100)
+      |                    ^
+..\candle_conundrum.cpp:8:21: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |                     ^
+..\candle_conundrum.cpp:8:22: error: stray '\265' in program
+    8 |   if(Рожден ден==100)
+      |                      ^
+..\candle_conundrum.cpp:8:23: error: stray '\320' in program
+    8 |   if(Рожден ден==100)
+      |                       ^
+..\candle_conundrum.cpp:8:24: error: stray '\275' in program
+    8 |   if(Рожден ден==100)
+      |                        ^
+..\candle_conundrum.cpp: In function 'int main()':
+..\candle_conundrum.cpp:5:24: error: expected unqualified-id before ',' token
+    5 | int Рожден ден, Candlesticks_required;
+      |                        ^
+..\candle_conundrum.cpp:6:56: error: expected primary-expression before ';' token
+    6 | cout<<"Рожден ден= "; cin>>Рожден ден;
+      |                                                        ^
+..\candle_conundrum.cpp:8:25: error: expected primary-expression before '==' token
+    8 |   if(Рожден ден==100)
+      |                         ^~
+20:51:56 **** Incremental Build of configuration Debug for project Candle Conundrum ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o candle_conundrum.o "..\\candle_conundrum.cpp" 
+g++ -o "Candle Conundrum.exe" candle_conundrum.o 
+20:53:16 **** Incremental Build of configuration Debug for project Candle Conundrum ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o candle_conundrum.o "..\\candle_conundrum.cpp" 
+g++ -o "Candle Conundrum.exe" candle_conundrum.o 
+Info: Nothing to build for Candle Conundrum
+20:53:57 **** Incremental Build of configuration Debug for project Candle Conundrum ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o candle_conundrum.o "..\\candle_conundrum.cpp" 
+g++ -o "Candle Conundrum.exe" candle_conundrum.o 
+21:09:13 **** Incremental Build of configuration Debug for project Candle Conundrum ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o candle_conundrum.o "..\\candle_conundrum.cpp" 
+g++ -o "Candle Conundrum.exe" candle_conundrum.o 
+21:14:42 **** Rebuild of configuration Debug for project ??????? ??? ??????? ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o redovno_ili_zada4no.o "..\\redovno_ili_zada4no.cpp" 
+g++ -o "??????? ??? ???????.exe" redovno_ili_zada4no.o 
+Info: Nothing to build for ??????? ??? ???????
+Info: Nothing to build for ??????? ??? ???????
+21:17:48 **** Incremental Build of configuration Debug for project ??????? ??? ??????? ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o redovno_ili_zada4no.o "..\\redovno_ili_zada4no.cpp" 
+g++ -o "??????? ??? ???????.exe" redovno_ili_zada4no.o 
+Info: Nothing to build for ??????? ??? ???????
+21:19:18 **** Incremental Build of configuration Debug for project ??????? ??? ??????? ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o redovno_ili_zada4no.o "..\\redovno_ili_zada4no.cpp" 
+g++ -o "??????? ??? ???????.exe" redovno_ili_zada4no.o 
+21:34:44 **** Rebuild of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+..\house_painter_exercise.cpp: In function 'int main()':
+..\house_painter_exercise.cpp:9:36: error: 'height' was not declared in this scope
+    9 | cout<<"Area of the wall= "<<length*height<<endl;
+      |                                    ^~~~~~
+..\house_painter_exercise.cpp:11:49: error: 'x' was not declared in this scope
+   11 | cout<<"The amount of paint buckets required: "<<x<<endl;
+      |                                                 ^
+21:35:17 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+..\house_painter_exercise.cpp: In function 'int main()':
+..\house_painter_exercise.cpp:11:49: error: 'x' was not declared in this scope
+   11 | cout<<"The amount of paint buckets required: "<<x<<endl;
+      |                                                 ^
+..\house_painter_exercise.cpp:6:21: warning: unused variable 'Area_of_the_wall' [-Wunused-variable]
+    6 | double length,width,Area_of_the_wall;
+      |                     ^~~~~~~~~~~~~~~~
+21:35:55 **** Rebuild of configuration Debug for project Caesar Cypher ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o caesar_cypher.o "..\\caesar_cypher.cpp" 
+..\caesar_cypher.cpp: In function 'std::string encrypt(std::string, int)':
+..\caesar_cypher.cpp:8:16: warning: comparison of integer expressions of different signedness: 'int' and 'std::__cxx11::basic_string<char>::size_type' {aka 'unsigned int'} [-Wsign-compare]
+    8 |  for (int i=0;i<text.length();i++)
+      |               ~^~~~~~~~~~~~~~
+g++ -o "Caesar Cypher.exe" caesar_cypher.o 
+Info: Nothing to build for Candle Conundrum
+21:35:57 **** Rebuild of configuration Debug for project Even or Uneven ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Even_or_Uneven.o "..\\Even_or_Uneven.cpp" 
+g++ -o "Even or Uneven.exe" Even_or_Uneven.o 
+21:35:58 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+..\house_painter_exercise.cpp: In function 'int main()':
+..\house_painter_exercise.cpp:6:21: warning: unused variable 'Area_of_the_wall' [-Wunused-variable]
+    6 | double length,width,Area_of_the_wall;
+      |                     ^~~~~~~~~~~~~~~~
+..\house_painter_exercise.cpp:11:47: error: expected '}' at end of input
+   11 | cout<<"The amount of paint buckets required: ";
+      |                                               ^
+..\house_painter_exercise.cpp:5:1: note: to match this '{'
+    5 | {
+      | ^
+21:35:59 **** Rebuild of configuration Debug for project Quadratic Formula ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o ez.o "..\\ez.cpp" 
+g++ -o "Quadratic Formula.exe" ez.o 
+21:36:00 **** Rebuild of configuration Debug for project Simple Equation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Simple_Equation.o "..\\Simple_Equation.cpp" 
+g++ -o "Simple Equation.exe" Simple_Equation.o 
+21:36:01 **** Rebuild of configuration Debug for project Square Root ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Square Root.o" "..\\Square Root.cpp" 
+g++ -o "Square Root.exe" "Square Root.o" 
+21:36:03 **** Rebuild of configuration Debug for project The Purpose of 'pow' ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o the_purpose_of_pow.o "..\\the_purpose_of_pow.cpp" 
+g++ -o "The Purpose of 'pow'.exe" the_purpose_of_pow.o 
+21:36:05 **** Rebuild of configuration Debug for project The Purpose of 'setw' ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o the_purpose_of_setw.o "..\\the_purpose_of_setw.cpp" 
+g++ -o "The Purpose of 'setw'.exe" the_purpose_of_setw.o 
+21:36:06 **** Rebuild of configuration Debug for project Triangular Possibilities ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o triangular_possibilities.o "..\\triangular_possibilities.cpp" 
+g++ -o "Triangular Possibilities.exe" triangular_possibilities.o 
+21:36:08 **** Rebuild of configuration Debug for project a, b, c, d - MAX ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o a,b,c,d-MAX.o "..\\a,b,c,d-MAX.cpp" 
+g++ -o "a, b, c, d - MAX.exe" a,b,c,d-MAX.o 
+21:36:09 **** Rebuild of configuration Debug for project if or else 'a' is smaller than 0 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o magictrick.o "..\\magictrick.cpp" 
+g++ -o "if or else 'a' is smaller than 0.exe" magictrick.o 
+Info: Nothing to build for ??????? ??? ???????
+21:36:16 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+..\house_painter_exercise.cpp: In function 'int main()':
+..\house_painter_exercise.cpp:6:21: warning: unused variable 'Area_of_the_wall' [-Wunused-variable]
+    6 | double length,width,Area_of_the_wall;
+      |                     ^~~~~~~~~~~~~~~~
+..\house_painter_exercise.cpp:11:47: error: expected '}' at end of input
+   11 | cout<<"The amount of paint buckets required: ";
+      |                                               ^
+..\house_painter_exercise.cpp:5:1: note: to match this '{'
+    5 | {
+      | ^
+22:21:30 **** Rebuild of configuration Debug for project ??????? ??? ??????? ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o redovno_ili_zada4no.o "..\\redovno_ili_zada4no.cpp" 
+g++ -o "??????? ??? ???????.exe" redovno_ili_zada4no.o 
+22:22:12 **** Rebuild of configuration Debug for project Triangular Possibilities ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o triangular_possibilities.o "..\\triangular_possibilities.cpp" 
+g++ -o "Triangular Possibilities.exe" triangular_possibilities.o 
+Info: Nothing to build for Triangular Possibilities
+14:49:54 **** Rebuild of configuration Debug for project Caesar Cypher ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o caesar_cypher.o "..\\caesar_cypher.cpp" 
+..\caesar_cypher.cpp: In function 'std::string encrypt(std::string, int)':
+..\caesar_cypher.cpp:8:16: warning: comparison of integer expressions of different signedness: 'int' and 'std::__cxx11::basic_string<char>::size_type' {aka 'unsigned int'} [-Wsign-compare]
+    8 |  for (int i=0;i<text.length();i++)
+      |               ~^~~~~~~~~~~~~~
+g++ -o "Caesar Cypher.exe" caesar_cypher.o 
+14:49:59 **** Rebuild of configuration Debug for project Candle Conundrum ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o candle_conundrum.o "..\\candle_conundrum.cpp" 
+g++ -o "Candle Conundrum.exe" candle_conundrum.o 
+14:50:01 **** Rebuild of configuration Debug for project Even or Uneven ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Even_or_Uneven.o "..\\Even_or_Uneven.cpp" 
+g++ -o "Even or Uneven.exe" Even_or_Uneven.o 
+14:50:02 **** Rebuild of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+..\house_painter_exercise.cpp: In function 'int main()':
+..\house_painter_exercise.cpp:6:21: warning: unused variable 'Area_of_the_wall' [-Wunused-variable]
+    6 | double length,width,Area_of_the_wall;
+      |                     ^~~~~~~~~~~~~~~~
+..\house_painter_exercise.cpp:11:47: error: expected '}' at end of input
+   11 | cout<<"The amount of paint buckets required: ";
+      |                                               ^
+..\house_painter_exercise.cpp:5:1: note: to match this '{'
+    5 | {
+      | ^
+14:50:02 **** Rebuild of configuration Debug for project Quadratic Formula ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o ez.o "..\\ez.cpp" 
+g++ -o "Quadratic Formula.exe" ez.o 
+14:50:04 **** Rebuild of configuration Debug for project Simple Equation ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Simple_Equation.o "..\\Simple_Equation.cpp" 
+g++ -o "Simple Equation.exe" Simple_Equation.o 
+14:50:05 **** Rebuild of configuration Debug for project Square Root ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Square Root.o" "..\\Square Root.cpp" 
+g++ -o "Square Root.exe" "Square Root.o" 
+14:50:06 **** Rebuild of configuration Debug for project The Purpose of 'pow' ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o the_purpose_of_pow.o "..\\the_purpose_of_pow.cpp" 
+g++ -o "The Purpose of 'pow'.exe" the_purpose_of_pow.o 
+14:50:07 **** Rebuild of configuration Debug for project The Purpose of 'setw' ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o the_purpose_of_setw.o "..\\the_purpose_of_setw.cpp" 
+g++ -o "The Purpose of 'setw'.exe" the_purpose_of_setw.o 
+14:50:08 **** Rebuild of configuration Debug for project Triangular Possibilities ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o triangular_possibilities.o "..\\triangular_possibilities.cpp" 
+g++ -o "Triangular Possibilities.exe" triangular_possibilities.o 
+14:50:10 **** Rebuild of configuration Debug for project a, b, c, d - MAX ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o a,b,c,d-MAX.o "..\\a,b,c,d-MAX.cpp" 
+g++ -o "a, b, c, d - MAX.exe" a,b,c,d-MAX.o 
+14:50:11 **** Rebuild of configuration Debug for project if or else 'a' is smaller than 0 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o magictrick.o "..\\magictrick.cpp" 
+g++ -o "if or else 'a' is smaller than 0.exe" magictrick.o 
+14:50:12 **** Rebuild of configuration Debug for project ??????? ??? ??????? ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o redovno_ili_zada4no.o "..\\redovno_ili_zada4no.cpp" 
+g++ -o "??????? ??? ???????.exe" redovno_ili_zada4no.o 
+14:51:29 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+..\house_painter_exercise.cpp: In function 'int main()':
+..\house_painter_exercise.cpp:6:24: warning: unused variable 'area_of_the_wall' [-Wunused-variable]
+    6 |  double length, width, area_of_the_wall;
+      |                        ^~~~~~~~~~~~~~~~
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+15:02:25 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+..\house_painter_exercise.cpp: In function 'int main()':
+..\house_painter_exercise.cpp:9:44: warning: 'area_of_the_wall' may be used uninitialized in this function [-Wmaybe-uninitialized]
+    9 |  cout<<"Area of the wall= "<<length*width<<area_of_the_wall<<endl;
+      |                                            ^~~~~~~~~~~~~~~~
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+15:03:24 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+15:04:02 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file House Painter Exercise.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:04:46 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+15:07:00 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file House Painter Exercise.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:07:18 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+Info: Nothing to build for House Painter Exercise
+Info: Nothing to build for House Painter Exercise
+15:10:39 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file House Painter Exercise.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:11:00 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+Info: Nothing to build for House Painter Exercise
+Info: Nothing to build for House Painter Exercise
+Info: Nothing to build for House Painter Exercise
+Info: Nothing to build for House Painter Exercise
+Info: Nothing to build for House Painter Exercise
+Info: Nothing to build for House Painter Exercise
+Info: Nothing to build for Even or Uneven
+15:27:02 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+15:27:45 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file House Painter Exercise.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:27:59 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+15:29:53 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file House Painter Exercise.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:30:02 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+15:32:19 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file House Painter Exercise.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:32:27 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+15:33:25 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file House Painter Exercise.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:33:30 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+15:33:41 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file House Painter Exercise.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:33:56 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+Info: Nothing to build for House Painter Exercise
+Info: Nothing to build for House Painter Exercise
+Info: Nothing to build for House Painter Exercise
+15:38:55 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+Info: Nothing to build for House Painter Exercise
+15:47:29 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+15:51:08 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+15:52:42 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+15:53:47 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+16:11:16 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+16:12:22 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+16:12:51 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+21:40:56 **** Incremental Build of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+00:13:56 **** Rebuild of configuration Debug for project House Painter Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o house_painter_exercise.o "..\\house_painter_exercise.cpp" 
+g++ -o "House Painter Exercise.exe" house_painter_exercise.o 
+Info: Nothing to build for House Painter Exercise
+21:18:55 **** Rebuild of configuration Debug for project a, b, c, d - MAX ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o a,b,c,d-MAX.o "..\\a,b,c,d-MAX.cpp" 
+g++ -o "a, b, c, d - MAX.exe" a,b,c,d-MAX.o 
+21:19:39 **** Incremental Build of configuration Debug for project a, b, c, d - MAX ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o a,b,c,d-MAX.o "..\\a,b,c,d-MAX.cpp" 
+g++ -o "a, b, c, d - MAX.exe" a,b,c,d-MAX.o 

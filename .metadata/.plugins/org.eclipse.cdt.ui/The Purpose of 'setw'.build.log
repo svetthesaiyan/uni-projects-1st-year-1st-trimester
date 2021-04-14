@@ -1,0 +1,7 @@
+14:50:07 **** Rebuild of configuration Debug for project The Purpose of 'setw' ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o the_purpose_of_setw.o "..\\the_purpose_of_setw.cpp" 
+g++ -o "The Purpose of 'setw'.exe" the_purpose_of_setw.o 
+
+14:50:08 Build Finished. 0 errors, 0 warnings. (took 986ms)
+

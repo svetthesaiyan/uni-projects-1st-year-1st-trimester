@@ -1,0 +1,7 @@
+14:50:06 **** Rebuild of configuration Debug for project The Purpose of 'pow' ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o the_purpose_of_pow.o "..\\the_purpose_of_pow.cpp" 
+g++ -o "The Purpose of 'pow'.exe" the_purpose_of_pow.o 
+
+14:50:07 Build Finished. 0 errors, 0 warnings. (took 1s.385ms)
+

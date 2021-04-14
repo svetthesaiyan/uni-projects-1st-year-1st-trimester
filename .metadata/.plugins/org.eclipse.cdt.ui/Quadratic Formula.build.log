@@ -1,0 +1,7 @@
+14:50:02 **** Rebuild of configuration Debug for project Quadratic Formula ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o ez.o "..\\ez.cpp" 
+g++ -o "Quadratic Formula.exe" ez.o 
+
+14:50:03 Build Finished. 0 errors, 0 warnings. (took 1s.32ms)
+

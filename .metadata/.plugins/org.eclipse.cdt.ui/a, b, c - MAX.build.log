@@ -1,0 +1,7 @@
+22:39:14 **** Incremental Build of configuration Debug for project a, b, c - MAX ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o a,b,c-MAX.o "..\\a,b,c-MAX.cpp" 
+g++ -o "a, b, c - MAX.exe" a,b,c-MAX.o 
+
+22:39:15 Build Finished. 0 errors, 0 warnings. (took 898ms)
+

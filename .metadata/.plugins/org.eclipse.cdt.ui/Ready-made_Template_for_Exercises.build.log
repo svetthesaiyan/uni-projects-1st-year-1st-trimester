@@ -1,0 +1,10 @@
+21:29:02 **** Incremental Build of configuration Debug for project Ready-made_Template_for_Exercises ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Square Root.o" "..\\Square Root.cpp" 
+g++ -o Ready-made_Template_for_Exercises.exe "Ready-made Template for Exercises.o" "Square Root.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: Square Root.o: in function `main':
+E:\Eclipse\Coding Projects\Ready-made_Template_for_Exercises\Debug/../Square Root.cpp:5: multiple definition of `main'; Ready-made Template for Exercises.o:E:\Eclipse\Coding Projects\Ready-made_Template_for_Exercises\Debug/../Ready-made Template for Exercises.cpp:5: first defined here
+collect2.exe: error: ld returned 1 exit status
+
+21:29:03 Build Failed. 2 errors, 0 warnings. (took 887ms)
+

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;a, b, c - MAX/a, b, c - MAX.cpp&apos; to &apos;a,b,c-MAX.cpp&apos;" description="Rename resource &apos;a, b, c - MAX.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="a, b, c - MAX.cpp" name="a,b,c-MAX.cpp" stamp="1603480551662" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;a, b, c, d - MAX/a,b,c-MAX.cpp&apos; to &apos;a,b,c,d-MAX.cpp&apos;" description="Rename resource &apos;a,b,c-MAX.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="a,b,c-MAX.cpp" name="a,b,c,d-MAX.cpp" stamp="1603482779981" updateReferences="true"/>
+</session>
